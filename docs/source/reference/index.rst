@@ -64,17 +64,29 @@ Edit information entities
    delete
    move
 
-Read and write DICOM series
----------------------------
+Reading DICOM
+-------------
 
 .. autosummary::
    :toctree: ../api/
    :template: autosummary.rst
 
    volume
-   write_volume
+   values
    pixel_data
    unique
+   files
+
+Writing DICOM
+-------------
+
+.. autosummary::
+   :toctree: ../api/
+   :template: autosummary.rst
+
+   split_series
+   write_volume
+   edit
 
 
 Import/export to other formats
