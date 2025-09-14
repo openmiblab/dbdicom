@@ -1,0 +1,18 @@
+﻿dbdicom.edit
+============
+
+
+.. currentmodule:: dbdicom
+
+
+
+.. autofunction:: edit
+
+
+
+
+
+.. minigallery:: dbdicom.edit
+   :add-heading:
+
+

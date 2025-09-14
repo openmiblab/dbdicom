@@ -1,0 +1,18 @@
+﻿dbdicom.files
+=============
+
+
+.. currentmodule:: dbdicom
+
+
+
+.. autofunction:: files
+
+
+
+
+
+.. minigallery:: dbdicom.files
+   :add-heading:
+
+

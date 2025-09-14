@@ -1,0 +1,18 @@
+﻿dbdicom.split\_series
+=====================
+
+
+.. currentmodule:: dbdicom
+
+
+
+.. autofunction:: split_series
+
+
+
+
+
+.. minigallery:: dbdicom.split_series
+   :add-heading:
+
+
